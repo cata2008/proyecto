@@ -9,7 +9,7 @@
     "clean": "ionic-app-scripts clean",
     "build": "ionic-app-scripts build",
     "lint": "ionic-app-scripts lint",
-    "start:server" : "npm run build && node script"
+    "start:script" : "npm run build && node script"
   },
   "dependencies": {
     "@angular/animations": "5.2.11",
